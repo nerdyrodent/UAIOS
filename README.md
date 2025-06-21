@@ -18,3 +18,6 @@ https://ollama.com/library/magistral
 
 ## Using UAIOS
 Just say "hi" then ask for the Primary Start Menu or the main menu
+
+# NOTES
+UAIOS should work on _any_ LLM - just change "FROM magistral:latest" to the ollama model of your choice
